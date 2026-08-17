@@ -5,6 +5,8 @@
   "colors": {
     "editor.background": "#2b312c",
     "editor.foreground": "#e4dfd7",
+    "titleBar.activeBackground": "#363433",
+    "titleBar.inactiveBackground": "#363433",
     "sideBarTitle.foreground": "#e4dfd7",
     "scrollbar.shadow": "#000000",
     "editorCursor.foreground": "#e4dfd7",
@@ -19,7 +21,7 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#ee3f4d",
     "tab.activeBorderTop": "#575b5c",
     "tab.inactiveBackground": "#2a2a2a",
-    "activityBar.background": "#2b302b",
+    "activityBar.background": "#363433",
     "activityBar.activeBorder": "#e4dfd7",
     "sideBar.background": "#1e201f",
     "statusBar.background": "#134857",

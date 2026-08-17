@@ -5,6 +5,8 @@
   "colors": {
     "editor.background": "#f8f4ed",
     "editor.foreground": "#2b312c",
+    "titleBar.activeBackground": "#f3efe8",
+    "titleBar.inactiveBackground": "#f3efe8",
     "sideBarTitle.foreground": "#2b312c",
     "scrollbar.shadow": "#a4aca7",
     "editorCursor.foreground": "#2b312c",
