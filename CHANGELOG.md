@@ -1,3 +1,8 @@
+## Version 0.2.20(2026-08-17)
+
+- Optimize for VSCode Modern UI (`workbench.experimental.modernUI`).
+  - Change `titleBar.activeBackground`, `titleBar.inactiveBackground`, `activityBar.background`.
+
 ## Version 0.2.19(2024-12-12)
 
 - Support `git.blame.editorDecorationForeground`
